@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Mozzet, Dating application server developer
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me: uh.jeong651@gmail.com <br>
