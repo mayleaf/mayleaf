@@ -6,5 +6,5 @@
 ![Static Badge](https://img.shields.io/badge/contributor-mayleaf?style=flat&logo=spring&label=spring-data-redis)
 
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mayleaf&layout=compact&count_private=true&langs_count=10&hide=jupyter%20notebook&disable_animations=true)](https://github.com/stats-organization/github-stats-extended)
-[![mayleaf's GitHub stats](https://github-stats-extended.vercel.app/api?username=mayleaf&show_icons=true&hide_border=true&count_private=true&disable_animations=true)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mayleaf&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=mayleaf&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&include_all_commits=true&theme=light_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=mayleaf&langs_count=4&hide=jupyter%20notebook&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=mayleaf&langs_count=4&theme=light_github)
